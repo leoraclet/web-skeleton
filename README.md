@@ -6,7 +6,6 @@ This is a simple template skeleton for website projects.
 
 ## Summary
 
-* **[Summary](#summary)**
 * **[License](#license)**
 * **[Credits](#credits)**
 
@@ -16,6 +15,6 @@ This project is released under the
 [**MIT**](https://mit-license.org/)
 license.
 
-# Credits
+## Credits
 
 * [**Léo Raclet**](https://github.com/leoraclet) : Creator of the project.
